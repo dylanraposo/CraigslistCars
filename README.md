@@ -57,7 +57,8 @@ PostDate is formatted as “2021-05-03T14:02:03-0500”. I don't think the time 
 Our data is now clean and very organized with no blanks or invalid values.
 Formatted as table for alternating colors, formatted fonts and positioning, and froze top row —> much easier to read and navigate.
 
-Cleaned data: ...
+Cleaned data: 
+
 
 Copied the newly cleaned sheet as a separate CCSV file. Kept it separate, organized, and in CSV format so we can easily upload and work with the data in SQL and Tableau. 
 

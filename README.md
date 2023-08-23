@@ -6,7 +6,7 @@ This is the walkthrough and breakdown of the entire process from obtaining the u
 Have a deep passion for cars and have always been interested in how different factors play a role in the overall pricing of vehicles. Went on the search for a challenging dataset which would give us some key insights that we would have to work for. After searching for a bit saw most of the car datasets were often too clean, not too much data, or were not local (US). I eventually came across this dataset which was scraped from craigslist. It was very messy, unorganized, but at a glance could tell it contained a lot of useful information. Ultimately imported this dataset into excel to get a better look at what we were dealing with. 
 
 
-Original excel file...
+Original excel file preview: Seen in repository as "CraigslistCars(Raw).IPYNB"
 
 # Questions about the data
 After getting a good understanding of the data, I came up with some questions I would like to answer. 
@@ -57,8 +57,7 @@ PostDate is formatted as “2021-05-03T14:02:03-0500”. I don't think the time 
 Our data is now clean and very organized with no blanks or invalid values.
 Formatted as table for alternating colors, formatted fonts and positioning, and froze top row —> much easier to read and navigate.
 
-Cleaned data: 
-
+Cleaned data preview: Seen in repository as "CraigslistCars(Cleaned).IPYNB"
 
 Copied the newly cleaned sheet as a separate CCSV file. Kept it separate, organized, and in CSV format so we can easily upload and work with the data in SQL and Tableau. 
 

@@ -3,7 +3,7 @@ This is the walkthrough and breakdown of the entire process from obtaining the u
 
 
 # Obtaining data
-Have always had deep passion for cars and have always been interested in how different factors play a role in the overall pricing of vehicles. Went on the search for a challenging dataset which would give us some key insights that we would have to work for. After searching for a bit saw most of the car datasets were often too clean, not too much data, or were not local (US). I eventually came across this dataset which was scraped from craigslist. It was very messy, unorganized, but at a glance could tell it contained a lot of useful information. Ultimately imported this dataset into excel to get a better look at what we were dealing with. 
+Have always had deep passion for cars and have always been interested in how different factors play a role in the overall pricing of vehicles. Went on the search for a challenging dataset which would give us some key insights regarding our interests. After searching for a bit saw most of the car datasets were often too clean, not too much data, or were not local (US). I eventually came across this dataset which was scraped from craigslist. It was very messy, unorganized, but at a glance could tell it contained a lot of useful information. Ultimately imported this dataset into excel to get a better look at what we were dealing with. 
 
 
 Original file preview: Seen in repository as "CraigslistCars(Raw).IPYNB"

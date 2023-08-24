@@ -62,6 +62,6 @@ Cleaned data preview: Seen in repository as "CraigslistCars(Cleaned).IPYNB"
 Copied the newly cleaned sheet as a separate CCSV file. Kept it separate, organized, and in CSV format so we can easily upload and work with the data in SQL and Tableau. 
 
 Visualization can be found at: https://public.tableau.com/app/profile/dylan.raposo
-SQL queries can be find in: "CraigslistCarsQueries.sql"
+SQL queries can be found in: "CraigslistCarsQueries.sql"
 
 

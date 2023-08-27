@@ -3,7 +3,7 @@ This is the walkthrough and breakdown of the entire process from obtaining the u
 
 
 # Obtaining data
-Have always had deep passion for cars and have always been interested in how different factors play a role in the overall pricing of vehicles. Went on the search for a challenging dataset which would give us some key insights regarding our interests. After searching for a bit saw most of the car datasets were often too clean, not too much data, or were not local (US). I eventually came across this dataset which was scraped from craigslist. It was very messy, unorganized, but at a glance could tell it contained a lot of useful information. Ultimately imported this dataset into excel to get a better look at what we were dealing with. 
+I have always had deep passion for cars and have always been interested in how different factors effect the market overall pricing of vehicles. I went on the search for a challenging dataset which would give us some key insights regarding our interests. Throughout my search I noticed most of the car datasets were often too clean, not too much data, or were not local (US). I eventually came across this dataset which was scraped from craigslist and uploaded to kaggle.com. It was very messy, unorganized, but at a glance could tell it contained a lot of useful information. Ultimately, I imported this dataset into excel to get a better look at what we were dealing with. 
 
 
 Original file preview: Seen in repository as "CraigslistCars(Raw).IPYNB"
@@ -14,14 +14,14 @@ After getting a good understanding of the data, I came up with some questions I 
 - Number of listings per manufacturer?
 - Do manual cars tend to have higher mileage?
 - How does the type of car impact price or even location?
-- Does paint color have an effect on price or maybe location?
+- Does paint color have an effect on price?
   - Overall was curious how each of these factors/fields correlate to the price of the     
     vehicles relative to their mileage (Obviously mileage has a big impact on price → Going to     
-    have to continuously work with the data because we can then get a better idea of how we 
-    can draw better conclusions. As of now there are still a lot of factors at play. 
-    For example, although our analysis might present that manual cars cost a lot more, it 
-    could be possible that our dataset contains a lot of low mileage manual cars and doesn't 
-    necessarily represent the entire truth. Just something to keep in mind. 
+    have to continuously work with the data so we can get a better idea of how well be able to draw better conclusions. As of now there are 
+    still a lot of factors at play. 
+    - For example, although our analysis might present that manual cars cost a lot more, it 
+      could be possible that our dataset contains a lot of low mileage manual cars and doesn't 
+      necessarily represent the entire truth. Just something to keep in mind. 
 
 # Cleaning the data
 After determining some questions, we then made a copy of our file. This is especially useful because it allows us to manipulate our dataset in various ways without the pressure of potentially losing valuable information or permanently impacting our original data. After creating our copy, the first step was to make sure all the data was cleaned and only the information that was needed remained.
